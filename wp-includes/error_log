@@ -1,0 +1,21 @@
+[12-Jul-2021 18:00:25 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/dota2india/public_html/wp-includes/functions.php on line 8
+[12-Jul-2021 18:00:25 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/dota2india/public_html/wp-includes/functions.php on line 8
+[12-Jul-2021 18:00:25 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/dota2india/public_html/wp-includes/functions.php on line 8
+[12-Jul-2021 18:00:25 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/dota2india/public_html/wp-includes/functions.php on line 8
+[30-Oct-2021 15:02:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/dota2india/public_html/wp-includes/locale.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dota2india/public_html/wp-includes/locale.php on line 11
+[31-Oct-2021 09:15:17 UTC] PHP Fatal error:  Class 'Walker' not found in /home/dota2india/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[10-Feb-2022 06:20:02 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/dota2india/public_html/wp-includes/functions.php on line 8
+[10-Feb-2022 06:20:02 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/dota2india/public_html/wp-includes/functions.php on line 8
+[10-Feb-2022 06:20:02 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/dota2india/public_html/wp-includes/functions.php on line 8
+[10-Feb-2022 06:20:02 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/dota2india/public_html/wp-includes/functions.php on line 8
+[09-Mar-2022 02:41:39 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/dota2india/public_html/wp-includes/functions.php on line 8
+[09-Mar-2022 02:41:39 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/dota2india/public_html/wp-includes/functions.php on line 8
+[09-Mar-2022 02:41:39 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/dota2india/public_html/wp-includes/functions.php on line 8
+[09-Mar-2022 02:41:39 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/dota2india/public_html/wp-includes/functions.php on line 8
+[28-Jun-2022 05:12:11 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/dota2india/public_html/wp-includes/functions.php on line 8
+[28-Jun-2022 05:12:11 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/dota2india/public_html/wp-includes/functions.php on line 8
+[28-Jun-2022 05:12:11 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/dota2india/public_html/wp-includes/functions.php on line 8
+[28-Jun-2022 05:12:11 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/dota2india/public_html/wp-includes/functions.php on line 8

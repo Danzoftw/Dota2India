@@ -1,0 +1,46 @@
+.contact-wrapper{
+	.form-holder{
+		.frm_forms{
+			.frm_form_fields {
+				.frm_fields_container{
+					.frm_form_field{
+						margin-bottom: 20px;
+						label{
+							color: @black;
+							.frm_required{
+								color: red;
+							}
+						}
+						input{
+							width: 100%;
+						    padding: 10px;
+						    border-radius: 0px;
+						    border: 1px solid @light-black;
+						    &:focus{
+						    	outline: none;
+						    }
+						}
+						textarea{
+							width: 100%;
+						    padding: 10px;
+						    border-radius: 0px;
+						    border: 1px solid @light-black;
+						    &:focus{
+						    	outline: none;
+						    }
+						}
+					}
+					.frm_submit{
+						button{
+							cursor: pointer;
+							border: 0;
+						    padding: 10px 20px;
+						    background-color: @dark-gray;
+						    color: @white;
+						}
+					}
+				}
+			}
+		}
+	}
+}

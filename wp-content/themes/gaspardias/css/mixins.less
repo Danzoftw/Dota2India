@@ -1,0 +1,92 @@
+/* :: LESS Mixins */
+/* ------------------------------------------------------------ */
+
+/* text-shadow */
+.text-shadow (@string) {
+	text-shadow: @string;
+}
+
+/* box-shadow */
+.box-shadow (@string) {
+	-webkit-box-shadow: @string;
+	-moz-box-shadow:    @string;
+	box-shadow:         @string;
+}
+
+/* border radius */
+.border-radius (@radius) {
+  border-radius: @radius;
+  -moz-border-radius: @radius;
+  -webkit-border-radius: @radius;
+}
+
+/* border radius top bottom left right */
+.border-radius-v2 (@topright: 0, @bottomright: 0, @bottomleft: 0, @topleft: 0) {
+	-webkit-border-top-right-radius:    @topright;
+	-webkit-border-bottom-right-radius: @bottomright;
+	-webkit-border-bottom-left-radius:  @bottomleft;
+	-webkit-border-top-left-radius:     @topleft;
+
+	-moz-border-radius-topright:        @topright;
+	-moz-border-radius-bottomright:     @bottomright;
+	-moz-border-radius-bottomleft:      @bottomleft;
+	-moz-border-radius-topleft:         @topleft;
+
+	border-top-right-radius:            @topright;
+	border-bottom-right-radius:         @bottomright;
+	border-bottom-left-radius:          @bottomleft;
+	border-top-left-radius:             @topleft;
+
+	-moz-background-clip:    padding;
+	-webkit-background-clip: padding-box;
+	background-clip:         padding-box;
+}
+
+/* transition */
+/*.transition (@transition) {
+	-webkit-transition: @transition;
+	-moz-transition:    @transition;
+	-ms-transition:     @transition;
+	-o-transition:      @transition;
+}*/
+
+/* transition v2 */
+.transition (@prop, @time, @ease) {
+    -webkit-transition: @prop @time @ease;
+       -moz-transition: @prop @time @ease;
+        -ms-transition: @prop @time @ease;
+         -o-transition: @prop @time @ease;
+            transition: @prop @time @ease;
+}
+.transitiondelay (@prop, @time, @ease, @delay) {
+    -webkit-transition: @prop @time @ease @delay;
+       -moz-transition: @prop @time @ease @delay;
+        -ms-transition: @prop @time @ease @delay;
+         -o-transition: @prop @time @ease @delay;
+            transition: @prop @time @ease @delay;
+}
+
+/* transform */
+.transform(@string){
+	-webkit-transform: @string;
+	-moz-transform: 	 @string;
+	-ms-transform: 		 @string;
+	-o-transform: 		 @string;
+	transform: 		 @string;
+}
+
+/* translate */
+.translate (@x, @y) {
+	-webkit-transform:       translate(@x, @y);
+	-moz-transform: 	 translate(@x, @y);
+	-ms-transform: 		 translate(@x, @y);
+	-o-transform: 		 translate(@x, @y);
+	transform: 		 translate(@x, @y);
+}
+
+/* animation */
+.animation (@arguments) {
+	-webkit-animation: @arguments;
+	-moz-animation:    @arguments;
+	-ms-animation:     @arguments;
+}

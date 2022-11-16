@@ -1,0 +1,12 @@
+[24-Jul-2022 14:06:01 UTC] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/dota2india/public_html/wp-includes/SimplePie/Cache/DB.php on line 50
+[24-Jul-2022 14:06:14 UTC] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/dota2india/public_html/wp-includes/SimplePie/Cache/File.php on line 50
+[24-Jul-2022 14:06:21 UTC] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/dota2india/public_html/wp-includes/SimplePie/Cache/Memcache.php on line 57
+[24-Jul-2022 14:06:30 UTC] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/dota2india/public_html/wp-includes/SimplePie/Cache/Memcached.php on line 58
+[24-Jul-2022 14:06:38 UTC] PHP Fatal error:  Class 'SimplePie_Cache_DB' not found in /home/dota2india/public_html/wp-includes/SimplePie/Cache/MySQL.php on line 56
+[24-Jul-2022 14:06:46 UTC] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/dota2india/public_html/wp-includes/SimplePie/Cache/Redis.php on line 27
+[24-Jul-2022 14:45:26 UTC] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/dota2india/public_html/wp-includes/SimplePie/Cache/DB.php on line 50
+[24-Jul-2022 14:45:33 UTC] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/dota2india/public_html/wp-includes/SimplePie/Cache/File.php on line 50
+[24-Jul-2022 14:45:41 UTC] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/dota2india/public_html/wp-includes/SimplePie/Cache/Memcache.php on line 57
+[24-Jul-2022 14:45:48 UTC] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/dota2india/public_html/wp-includes/SimplePie/Cache/Memcached.php on line 58
+[24-Jul-2022 14:45:55 UTC] PHP Fatal error:  Class 'SimplePie_Cache_DB' not found in /home/dota2india/public_html/wp-includes/SimplePie/Cache/MySQL.php on line 56
+[24-Jul-2022 14:46:03 UTC] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/dota2india/public_html/wp-includes/SimplePie/Cache/Redis.php on line 27

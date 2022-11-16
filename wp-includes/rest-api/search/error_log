@@ -1,0 +1,2 @@
+[24-Jul-2022 14:28:16 UTC] PHP Fatal error:  Class 'WP_REST_Search_Handler' not found in /home/dota2india/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[24-Jul-2022 15:03:11 UTC] PHP Fatal error:  Class 'WP_REST_Search_Handler' not found in /home/dota2india/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17

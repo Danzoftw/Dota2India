@@ -1,0 +1,16 @@
+[22-May-2021 07:28:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/dota2india/public_html/wp-content/themes/dota2/404.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/dota2india/public_html/wp-content/themes/dota2/404.php on line 1
+[01-Oct-2021 10:06:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/dota2india/public_html/wp-content/themes/dota2/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dota2india/public_html/wp-content/themes/dota2/index.php on line 2
+[03-Oct-2021 04:11:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/dota2india/public_html/wp-content/themes/dota2/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dota2india/public_html/wp-content/themes/dota2/index.php on line 2
+[04-Oct-2021 22:11:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/dota2india/public_html/wp-content/themes/dota2/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dota2india/public_html/wp-content/themes/dota2/index.php on line 2

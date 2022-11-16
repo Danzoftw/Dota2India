@@ -1,0 +1,1 @@
+[24-Jul-2022 14:32:27 UTC] PHP Fatal error:  Class 'ParagonIE_Sodium_Core_Util' not found in /home/dota2india/public_html/wp-includes/sodium_compat/src/File.php on line 9

@@ -1,0 +1,2 @@
+[24-Jul-2022 14:01:40 UTC] PHP Fatal error:  Interface 'Requests_Auth' not found in /home/dota2india/public_html/wp-includes/Requests/Auth/Basic.php on line 18
+[24-Jul-2022 14:38:25 UTC] PHP Fatal error:  Interface 'Requests_Auth' not found in /home/dota2india/public_html/wp-includes/Requests/Auth/Basic.php on line 18

@@ -1,0 +1,40 @@
+[24-Jul-2022 14:11:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/dota2india/public_html/wp-includes/block-patterns/heading-paragraph.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dota2india/public_html/wp-includes/block-patterns/heading-paragraph.php on line 9
+[24-Jul-2022 14:11:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/dota2india/public_html/wp-includes/block-patterns/large-header-button.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dota2india/public_html/wp-includes/block-patterns/large-header-button.php on line 9
+[24-Jul-2022 14:12:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/dota2india/public_html/wp-includes/block-patterns/large-header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dota2india/public_html/wp-includes/block-patterns/large-header.php on line 9
+[24-Jul-2022 14:12:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/dota2india/public_html/wp-includes/block-patterns/quote.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dota2india/public_html/wp-includes/block-patterns/quote.php on line 9
+[24-Jul-2022 14:12:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/dota2india/public_html/wp-includes/block-patterns/text-three-columns-buttons.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dota2india/public_html/wp-includes/block-patterns/text-three-columns-buttons.php on line 9
+[24-Jul-2022 14:12:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/dota2india/public_html/wp-includes/block-patterns/text-two-columns-with-images.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dota2india/public_html/wp-includes/block-patterns/text-two-columns-with-images.php on line 9
+[24-Jul-2022 14:12:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/dota2india/public_html/wp-includes/block-patterns/text-two-columns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dota2india/public_html/wp-includes/block-patterns/text-two-columns.php on line 9
+[24-Jul-2022 14:12:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/dota2india/public_html/wp-includes/block-patterns/three-buttons.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dota2india/public_html/wp-includes/block-patterns/three-buttons.php on line 9
+[24-Jul-2022 14:12:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/dota2india/public_html/wp-includes/block-patterns/two-buttons.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dota2india/public_html/wp-includes/block-patterns/two-buttons.php on line 9
+[24-Jul-2022 14:12:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/dota2india/public_html/wp-includes/block-patterns/two-images.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dota2india/public_html/wp-includes/block-patterns/two-images.php on line 9

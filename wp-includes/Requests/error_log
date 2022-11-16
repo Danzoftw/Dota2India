@@ -1,0 +1,1 @@
+[24-Jul-2022 14:02:49 UTC] PHP Fatal error:  Interface 'Requests_Hooker' not found in /home/dota2india/public_html/wp-includes/Requests/Hooks.php on line 15

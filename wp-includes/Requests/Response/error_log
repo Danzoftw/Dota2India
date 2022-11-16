@@ -1,0 +1,2 @@
+[24-Jul-2022 14:03:59 UTC] PHP Fatal error:  Class 'Requests_Utility_CaseInsensitiveDictionary' not found in /home/dota2india/public_html/wp-includes/Requests/Response/Headers.php on line 13
+[24-Jul-2022 14:44:00 UTC] PHP Fatal error:  Class 'Requests_Utility_CaseInsensitiveDictionary' not found in /home/dota2india/public_html/wp-includes/Requests/Response/Headers.php on line 13
